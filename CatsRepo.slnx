@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CatsRepo/CatsRepo.csproj" />
+  <Project Path="CatsRepoTest/CatsRepoTest.csproj" Id="08ecf15d-8440-47b3-ac3f-2250392353ae" />
+</Solution>
